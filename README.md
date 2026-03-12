@@ -64,4 +64,35 @@ After reading your project proposals, your projects all depend on data to build 
 * APIs are an ideal source of data as some agency, company, organization has created a pipeline for you to use. Not all APIs are free! I teach a workshop on APIs, which is a whole topic in itself. You can see more info here: [API Workshop](https://github.com/epurpur/pythonAPI)
 * The UVA Library has a lot of places to find data! We have a whole public facing libguide on that available here (Don't mind that it is for a statistics class): [Data Libguide](https://guides.lib.virginia.edu/stat3220)
 
+## Agentic AI Demo
 
+### Prompting
+To make a long story short, the better prompt you give, the better output you will get from the AI. Large Language Models are predictive so they more specificity you can give, the more likely it is the response will be relevant. In the UVA Libraries, we teach the [CLEAR Framework](https://www.sciencedirect.com/science/article/pii/S0099133323000599) for prompt engineering which stresses the following points for good prompt-writing
+* C: Concise. Prompts should be brief and clear
+* L: Logical. Structured and coherent prompts
+* E: Explicit. Clear output specifications
+* A: Adaptive. Flexibility and customization in prompts
+* R: Reflective. Continuous evaluation and improvement of prompts
+
+##### Example Prompt
+Create a Streamlit web application called Housing_Affordability_Agent that runs locally. The attached file is data containing tax parcel data for the city of Charlottesville, Virginia. The key columns in the dataset are assessment (parcel value) and neighborhood.
+The dashboard should include:
+
+City Overview
+* Total number of parcels
+* Median parcel value
+* Mean parcel value
+* Histogram of parcel values
+
+Neighborhood Analysis
+* Table showing neighborhood, number of parcels, median parcel value, and mean parcel value
+* Rank neighborhoods by affordability (lowest median value → highest)
+* Display a sortable table and a bar chart of median parcel value by neighborhood
+
+Affordability Calculator
+* Assume households can afford homes valued at 3× annual income
+* Provide an input box for annual income
+* When the user clicks Calculate Affordability:
+* Compute the affordability threshold
+* Identify neighborhoods where median parcel value ≤ threshold
+* Display the threshold, a list of affordable neighborhoods, and a table indicating whether each neighborhood is affordable
