@@ -75,7 +75,7 @@ To make a long story short, the better prompt you give, the better output you wi
 * R: Reflective. Continuous evaluation and improvement of prompts
 
 ##### Example Prompt
-Create a Streamlit web application called Housing_Affordability_Agent that runs locally. The attached file is data containing tax parcel data for the city of Charlottesville, Virginia. The key columns in the dataset are assessment (parcel value) and neighborhood.
+Create a python Streamlit web application called Housing_Affordability_Agent that runs locally. The attached file (charlottesville_assessments_with_neighborhoods.csv) is data containing tax parcel data for the city of Charlottesville, Virginia. The key columns in the dataset are assessment (parcel value) and neighborhood.
 The dashboard should include:
 
 City Overview
@@ -96,3 +96,7 @@ Affordability Calculator
 * Compute the affordability threshold
 * Identify neighborhoods where median parcel value ≤ threshold
 * Display the threshold, a list of affordable neighborhoods, and a table indicating whether each neighborhood is affordable
+
+
+### Demo Video
+Link goes here
