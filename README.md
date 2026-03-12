@@ -44,3 +44,12 @@ Another software/programming paradigm in use today is **vibe coding**. Vibe Codi
     
 [Firebase Studio](https://firebase.studio/)
     - Web-based google product. No installation and minimal configuration required. Build and execute everything in a web browser!
+
+### Practicalities
+#### Data Availability
+After reading your project proposals, your projects all depend on data to build your final product. Some of your project descriptions explicitly tell where the data will come from while others do not. Here are some high-level points to keep in mind when it comes to the data for your projects.
+* You have a limited amount of time to complete this project. The data you wish for could be unavailable, behind a paywall, or simply doesn't exist. 
+* APIs are an ideal source of data as some agency, company, organization has created a pipeline for you to use. Not all APIs are free! I teach a workshop on APIs, which is a whole topic in itself. You can see more info here: [API Workshop](https://github.com/epurpur/pythonAPI)
+* The UVA Library has a lot of places to find data! We have a whole public facing libguide on that available here: [Data Libguide](https://guides.lib.virginia.edu/stat3220)
+
+
