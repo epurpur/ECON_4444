@@ -43,7 +43,7 @@ Anthropic’s agentic coding tool that runs via terminal, IDE plugins, or a nati
 
 [Codex](https://openai.com/codex/)
 OpenAI Codex is a multi‑agent coding system and desktop/CLI tool that automates end‑to‑end development tasks—writing, understanding, testing, and modifying code
-* [Pricing] (https://developers.openai.com/codex/pricing/)
+* [Pricing](https://developers.openai.com/codex/pricing/)
 * Pro tier required for Codex ($20/month)
 
 #### Browser Based - for web dashboards
@@ -99,4 +99,4 @@ Affordability Calculator
 
 
 ### Demo Video
-Link goes here
+[See on Youtube](https://youtu.be/lkRWxXmkZUw)
