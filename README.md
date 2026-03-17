@@ -11,7 +11,8 @@ For Spring 2026 Semester
 * Brown Library i054
 
 ### Economics Liaison
-* Nicholas Cummins [https://library.virginia.edu/staff/njc3dj](https://library.virginia.edu/staff/njc3dj)
+* [Nicholas Cummins](https://library.virginia.edu/staff/njc3dj)
+* njc3dj@virginia.edu
 * UVA Library has a person assigned as a liaison to each department. For economics questions, Nicholas is your contact person
 
 ### Data Resources in the UVA Library
